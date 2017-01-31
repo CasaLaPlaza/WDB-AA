@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/monster_egg_chiselbrick",
+        "down": "blocks/monster_egg_chiselbrick",
+        "up": "blocks/monster_egg_chiselbrick",
+        "north": "blocks/monster_egg_chiselbrick",
+        "east": "blocks/monster_egg_chiselbrick",
+        "south": "blocks/monster_egg_chiselbrick",
+        "west": "blocks/monster_egg_chiselbrick"
+    }
+}

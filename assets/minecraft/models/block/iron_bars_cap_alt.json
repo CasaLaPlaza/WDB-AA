@@ -1,0 +1,22 @@
+{
+"ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/iron_bars",
+        "0": "blocks/iron_bars"
+    },
+    "elements": [
+        {
+            "name": "Element",
+            "from": [ 7.2, 0.0, 7.2 ], 
+            "to": [ 8.8, 16.0, 8.8 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 7.5, 0.0, 8.7, 16.0 ], "rotation": 180 },
+                "east": { "texture": "#0", "uv": [ 7.5, 0.0, 8.7, 16.0 ], "rotation": 180 },
+                "south": { "texture": "#0", "uv": [ 7.5, 0.0, 8.7, 16.0 ], "rotation": 180 },
+                "west": { "texture": "#0", "uv": [ 7.5, 0.0, 8.7, 16.0 ], "rotation": 180 },
+                "up": { "texture": "#0", "uv": [ 7.5, 5.0, 8.7, 6.6 ] },
+                "down": { "texture": "#0", "uv": [ 7.5, 7.0, 8.7, 8.6 ] }
+            }
+        }
+    ]
+}

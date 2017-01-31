@@ -1,0 +1,19 @@
+{
+    "parent": "guns/ar20/red",
+    "textures": {
+        "3": "guns/holo1"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.99,-0.35],
+            "translation": [-8.955,9.59,-0.5],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [19,5.5,-14],
+           "scale": [1.7,1.7,1.7]
+        }
+},
+    "elements": []
+}

@@ -1,0 +1,115 @@
+{
+    "__comment": "0.00064020486555697823303457106274",
+    "parent": "guns/air",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.00064020486555697823303457106274
+            },
+            "model": "guns/uzi/uzi"
+        },
+        {
+            "predicate": {
+                "damage": 0.00128040973111395646606914212548
+            },
+            "model": "guns/uzi/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.00192061459667093469910371318822
+            },
+            "model": "guns/uzi/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.00256081946222791293213828425096
+            },
+            "model": "guns/uzi/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0032010243277848911651728553137
+            },
+            "model": "guns/uzi/rungold"
+        },
+        {
+            "predicate": {
+                "damage": 0.00384122919334186939820742637644
+            },
+            "model": "guns/uzi/aimgold"
+        },
+        {
+            "predicate": {
+                "damage": 0.00448143405889884763124199743918
+            },
+            "model": "guns/mp5k/mp5k"
+        },
+        {
+            "predicate": {
+                "damage": 0.00512163892445582586427656850192
+            },
+            "model": "guns/mp5k/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.00576184379001280409731113956466
+            },
+            "model": "guns/mp5k/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.0064020486555697823303457106274
+            },
+            "model": "guns/mp5k/red"
+        },
+        {
+            "predicate": {
+                "damage": 0.00704225352112676056338028169014
+            },
+            "model": "guns/mp5k/runred"
+        },
+        {
+            "predicate": {
+                "damage": 0.00768245838668373879641485275288
+            },
+            "model": "guns/mp5k/aimred"
+        },
+        {
+            "predicate": {
+                "damage": 0.00832266325224071702944942381561
+            },
+            "model": "guns/krissvector/krissvector"
+        },
+        {
+            "predicate": {
+                "damage": 0.00840286811779769526248399487836
+            },
+            "model": "guns/krissvector/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.0096030729833546734955185659411
+            },
+            "model": "guns/krissvector/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.01216389244558258642765685019206
+            },
+            "model": "guns/aks74u/aks74u"
+        },
+        {
+            "predicate": {
+                "damage": 0.0128040973111395646606914212548
+            },
+            "model": "guns/aks74u/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.01344430217669654289372599231754
+            },
+            "model": "guns/aks74u/aim"
+        }
+    ]
+}
+

@@ -1,0 +1,7 @@
+{
+    "parent": "guns/fnfal/fnfal",
+    "textures": {
+        "1": "guns/gold",
+        "2": "guns/gold"
+    }
+}

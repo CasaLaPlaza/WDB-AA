@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/monster_egg_crackbrick",
+        "down": "blocks/monster_egg_crackbrick",
+        "up": "blocks/monster_egg_crackbrick",
+        "north": "blocks/monster_egg_crackbrick",
+        "east": "blocks/monster_egg_crackbrick",
+        "south": "blocks/monster_egg_crackbrick",
+        "west": "blocks/monster_egg_crackbrick"
+    }
+}

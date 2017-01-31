@@ -1,0 +1,6 @@
+{
+    "parent": "guns/ak12/ak12",
+    "textures": {
+        "1": "guns/premium"
+    }
+}

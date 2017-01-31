@@ -1,0 +1,6 @@
+{
+    "parent": "item/cake",
+    "textures": {
+        "0": "models/ammobox/ammoboxb"
+    }
+}

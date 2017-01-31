@@ -1,0 +1,7 @@
+{
+    "parent": "guns/ar15/ar15",
+    "textures": {
+        "1": "guns/red",
+        "3": "guns/red"
+    }
+}

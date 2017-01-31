@@ -1,0 +1,19 @@
+{
+    "parent": "guns/akm/gold",
+    "textures": {
+        "5": "guns/holo2"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90.05,0],
+            "translation": [-8.959,7.685,-0.3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [7,2,-14],
+           "scale": [1.1,1.1,1.1]
+    }
+},
+    "elements": []
+}

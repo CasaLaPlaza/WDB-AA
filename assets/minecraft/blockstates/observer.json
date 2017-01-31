@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=up,powered=false": { "model": "stone", "x": 270 },
+        "facing=down,powered=false": { "model": "observer", "x": 90 },
+        "facing=north,powered=false": { "model": "observer" },
+        "facing=south,powered=false": { "model": "stone", "y": 180 },
+        "facing=west,powered=false": { "model": "observer", "y": 270 },
+        "facing=east,powered=false": { "model": "stone", "y": 90 },
+        "facing=up,powered=true": { "model": "stone", "x": 270 },
+        "facing=down,powered=true": { "model": "observer", "x": 90 },
+        "facing=north,powered=true": { "model": "observer" },
+        "facing=south,powered=true": { "model": "stone", "y": 180 },
+        "facing=west,powered=true": { "model": "observer", "y": 270 },
+        "facing=east,powered=true": { "model": "stone", "y": 90 }
+    }
+}

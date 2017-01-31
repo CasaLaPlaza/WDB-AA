@@ -1,0 +1,6 @@
+{
+    "parent": "guns/m4a1/m4a1",
+    "textures": {
+        "1": "guns/snow"
+    }
+}

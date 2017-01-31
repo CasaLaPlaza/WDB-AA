@@ -1,0 +1,6 @@
+{
+    "parent": "guns/uzi/aim",
+    "textures": {
+        "2": "guns/gold"
+    }
+}

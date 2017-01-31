@@ -1,0 +1,19 @@
+{
+    "parent": "guns/awm/premium",
+    "textures": {
+        "2": "guns/scope2"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90.05,0],
+            "translation": [-8.968,9.919,-3],
+            "scale": [1,1,1]
+        },
+        "fixed": {
+		 "rotation": [0,0,3.5],
+            "translation": [19,8.8,-13],
+            "scale": [1.7,1.7,1.7]
+        }
+},
+    "elements": []
+}

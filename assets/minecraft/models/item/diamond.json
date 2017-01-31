@@ -1,0 +1,7 @@
+{
+    "parent": "food/canned_food",
+    "textures": {
+        "0": "models/food/can_tomato",
+        "particle": "models/food/can_tomato"
+    }
+}

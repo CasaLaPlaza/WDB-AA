@@ -1,0 +1,16 @@
+{
+    "parent": "guns/fnfal/black",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.93,0.6],
+            "translation": [-8.94,9.55,-3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [15,3.5,-14],
+           "scale": [1.5,1.5,1.5]
+    }
+},
+    "elements": []
+}

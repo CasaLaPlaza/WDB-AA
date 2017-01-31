@@ -1,0 +1,16 @@
+{
+    "parent": "guns/ssg69/ssg69",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90.05,0],
+            "translation": [-8.97,9.95,-3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0.5],
+           "translation": [25,9.5,-13.5],
+           "scale": [2.0,2.0,2.0]
+    }
+},
+    "elements": []
+}
