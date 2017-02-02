@@ -1,4 +1,5 @@
 {
+    "parent": "block/cube",
     "textures": {
         "particle": "blocks/stone_granite_top",
         "0": "blocks/stone_granite_bottom",

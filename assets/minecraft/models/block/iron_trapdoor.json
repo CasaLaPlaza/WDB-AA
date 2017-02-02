@@ -1,6 +1,8 @@
 {
+    "parent": "block/block",
     "textures": {
-        "texture": "blocks/iron_trapdoor"
+        "texture": "blocks/iron_trapdoor",
+        "particle: "blocks/iron_trapdoor"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
