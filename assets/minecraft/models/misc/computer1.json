@@ -1,4 +1,5 @@
 {
+    "parent": "block/cube",
     "textures": {
         "particle": "blocks/sponge_wet_second",
         "0": "blocks/sponge_wet_second",
@@ -7,6 +8,18 @@
         "3": "misc/redmetal",
         "4": "misc/black",
         "5": "misc/redmetal"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0,-65, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 0.80, 0.80, 0.80 ]
+        },
+        "gui": {
+            "rotation": [ 30, -45, 0 ],
+            "translation": [ 0, 1, 0],
+            "scale":[ 1.0, 1.0, 1.0 ]
+        }
     },
     "elements": [
         {

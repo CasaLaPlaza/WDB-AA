@@ -1,4 +1,5 @@
 {
+    "parent": "block/cube",
     "textures": {
         "particle": "blocks/piston_bottom",
         "0": "blocks/sponge_wet_second",

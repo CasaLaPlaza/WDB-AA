@@ -1,4 +1,5 @@
 {
+    "parent": "block/cube",
     "__comment": "Made by Tomshalev01",
     "textures": {
         "0": "misc/black",

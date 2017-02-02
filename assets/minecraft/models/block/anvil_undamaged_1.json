@@ -1,5 +1,6 @@
 {
-"ambientocclusion": false,
+    "parent": "block/cube",
+    "ambientocclusion": false,
     "textures": {
         "0": "blocks/coal_ore",
         "1": "models/Rails/top_undamaged",

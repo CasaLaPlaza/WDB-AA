@@ -1,4 +1,5 @@
 {
+    "parent": "block/ice",
     "textures": {
         "0": "blocks/ice_packed",
         "1": "blocks/stone_granite_bottom",
