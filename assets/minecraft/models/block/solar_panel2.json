@@ -1,9 +1,9 @@
 {
-    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
         "0": "blocks/sponge",
         "1": "blocks/sponge_wet_second",
-        "2": "blocks/solarpanel"
+        "2": "blocks/solarpanel",
+        "particle": "blocks/solarpanel"
     },
     "elements": [
         {
