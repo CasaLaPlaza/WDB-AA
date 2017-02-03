@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "end_rod" },
+        "facing=down": { "model": "end_rod", "x": 180 },
+        "facing=east": { "model": "streetlamp", "y": 0, "x": 0 },
+        "facing=south": { "model": "streetlamp", "y": 90, "x": 0 },
+        "facing=west": { "model": "streetlamp", "y": 180, "x": 0 },
+        "facing=north": { "model": "streetlamp", "y": 270, "x": 0 }
+    }
+}
