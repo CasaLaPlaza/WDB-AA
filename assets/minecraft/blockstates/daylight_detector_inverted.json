@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "power=0": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=1": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=2": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=3": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=4": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=5": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=6": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=7": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=8": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=9": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=10": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=11": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=12": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=13": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=14": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ],
+        "power=15": [{ "model": "solar_panel1" }, { "model": "solar_panel2"}, { "model": "solar_panel3"}, { "model": "solar_panel4"}, { "model": "solar_panel5"} ]
+    }
+}
