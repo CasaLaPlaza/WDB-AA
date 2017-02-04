@@ -1,5 +1,4 @@
 {
-    "parent": "block/block",
     "textures": {
         "particle": "blocks/sand",
         "0": "misc/sandbag"
