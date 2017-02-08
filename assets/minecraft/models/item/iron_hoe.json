@@ -1,6 +1,6 @@
 {
     "__comment": "0.00398406374502",
-    "parent": "guns/air",
+    "parent": "decor/assaultholder",
     "overrides": [
         {
             "predicate": {

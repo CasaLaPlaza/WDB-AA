@@ -1,0 +1,9 @@
+{
+    "parent": "guns/glock17/glock17",
+    "textures": {
+        "0": "guns/darkblack",
+        "1": "guns/darkblack",
+        "2": "guns/darkblack"
+    },
+    "elements": []
+}

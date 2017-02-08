@@ -1,0 +1,10 @@
+{
+    "parent": "guns/ak47/ak47",
+    "textures": {
+        "0": "guns/darkblack",
+        "1": "guns/darkblack",
+        "2": "guns/darkblack",
+        "3": "guns/darkblack",
+        "4": "guns/darkblack"
+    }
+}

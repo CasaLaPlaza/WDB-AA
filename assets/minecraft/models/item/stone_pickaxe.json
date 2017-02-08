@@ -1,6 +1,6 @@
 {
     "__comment__": "0.00757575757575757575757575757576",
-    "parent": "guns/air",
+    "parent": "ammo/ak47magazine",
     "overrides": [
         {
             "predicate": {

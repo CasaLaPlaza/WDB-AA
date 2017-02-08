@@ -1,16 +1,11 @@
 {
     "variants": {
-        "facing=up,powered=false": { "model": "stone", "x": 270 },
-        "facing=down,powered=false": { "model": "observer", "x": 90 },
         "facing=north,powered=false": { "model": "observer" },
-        "facing=south,powered=false": { "model": "stone", "y": 180 },
+        "facing=south,powered=false": [{ "model": "fridge/fridge1" }, { "model": "fridge/fridge1a" }, { "model": "fridge/fridge1b" }, { "model": "fridge/fridge2" }, { "model": "fridge/fridge2f" }],
         "facing=west,powered=false": { "model": "observer", "y": 270 },
-        "facing=east,powered=false": { "model": "stone", "y": 90 },
-        "facing=up,powered=true": { "model": "stone", "x": 270 },
-        "facing=down,powered=true": { "model": "observer", "x": 90 },
+        "facing=east,powered=false": [{ "model": "fridge/fridge1", "y": 90 }, { "model": "fridge/fridge1a", "y": 90}, { "model": "fridge/fridge1b", "y": 90}, { "model": "fridge/fridge2", "y": 90 }, { "model": "fridge/fridge2f", "y": 90 }],
         "facing=north,powered=true": { "model": "observer" },
-        "facing=south,powered=true": { "model": "stone", "y": 180 },
+        "facing=south,powered=true": [{ "model": "fridge/fridge1" }, { "model": "fridge/fridge1a" }, { "model": "fridge/fridge1b" }, { "model": "fridge/fridge2" }, { "model": "fridge/fridge2f" }],
         "facing=west,powered=true": { "model": "observer", "y": 270 },
-        "facing=east,powered=true": { "model": "stone", "y": 90 }
-    }
+        "facing=east,powered=true": [{ "model": "fridge/fridge1" }, { "model": "fridge/fridge1a", "y": 90}, { "model": "fridge/fridge1b", "y": 90}, { "model": "fridge/fridge2", "y": 90}, { "model": "fridge/fridge2f", "y": 90 }] }
 }

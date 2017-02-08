@@ -1,0 +1,8 @@
+{
+    "parent": "guns/uzi/uzi",
+    "textures": {
+        "0": "guns/darkblack",
+        "1": "guns/darkblack",
+        "2": "guns/darkblack"
+    }
+}

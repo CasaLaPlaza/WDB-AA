@@ -1,6 +1,6 @@
 {
     "__comment": "0.01666666666666666666666666666667",
-    "parent": "guns/air",
+    "parent": "guns/icons/pistol",
     "overrides": [
         {
             "predicate": {
