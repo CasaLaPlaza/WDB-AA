@@ -1,0 +1,6 @@
+{
+     "parent": "guns/kriss v/skinned/main",
+     "textures": {
+          "2": "guns/mags"
+     }
+}

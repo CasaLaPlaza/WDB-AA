@@ -1,0 +1,6 @@
+{
+     "parent": "guns/kriss v/main",
+     "textures": {
+          "5": "guns/mags"
+     }
+}

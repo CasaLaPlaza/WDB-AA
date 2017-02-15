@@ -1,0 +1,15 @@
+{
+    "__comment": "Model by Shado",
+    "parent": "guns/p90/silenced scope/loaded/main",
+    "textures": {
+        "10": "guns/optics/holo1"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,0],
+            "translation": [-8.95,7.6,8.3],
+            "scale": [0.7,0.7,0.7]
+        }
+},
+    "elements": []
+}

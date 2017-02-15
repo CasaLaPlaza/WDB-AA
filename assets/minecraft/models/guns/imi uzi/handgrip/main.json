@@ -1,0 +1,15 @@
+{
+    "parent": "guns/imi uzi/main",
+    "textures": {
+        "6": "guns/metal/five",
+        "4": "guns/metal/five",
+        "11": "guns/hidden"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [ -2, 4, -7.9],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    }
+}

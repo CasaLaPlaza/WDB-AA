@@ -1,0 +1,13 @@
+{
+    "parent": "guns/mp5k/main",
+    "textures": {
+        "10": "guns/metal/five"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [-2, 3, -7.5],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "guns/m1911/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,30],
+            "translation": [-5,9.5,-1],
+            "scale": [0.5,0.5,0.5]
+    }
+},
+    "elements": []
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "guns/imi uzi/silenced handgrip/main",
+    "textures": {
+        "9": "guns/metal/eight"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "guns/aks 74u/scope/main",
+    "textures": {
+        "5": "guns/mags"
+    }
+}

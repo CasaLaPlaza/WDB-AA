@@ -1,7 +1,7 @@
 {
     "__comment": "Model made by Tomshalev01, do not steal",
     "textures": {
-        "0": "guns/gray",
+        "0": "guns/metal/five",
         "1": "guns/plaincolors",
         "2": "blocks/soul_sand"
     },

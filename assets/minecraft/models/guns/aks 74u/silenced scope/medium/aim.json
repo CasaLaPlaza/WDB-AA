@@ -1,0 +1,20 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/aks 74u/silenced scope/medium/main",
+    "textures": {
+         "0": "guns/optics/scope1"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.94,0],
+            "translation": [-8.95,7.63,0.7],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [11,2,-14],
+           "scale": [1.1,1.1,1.1]
+    }
+},
+    "elements": []
+}

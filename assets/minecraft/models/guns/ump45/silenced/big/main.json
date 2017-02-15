@@ -1,0 +1,6 @@
+{
+    "parent": "guns/ump45/silenced/main",
+    "textures": {
+        "9": "guns/metal/four"
+    }
+}

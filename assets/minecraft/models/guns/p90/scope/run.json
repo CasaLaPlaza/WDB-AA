@@ -1,0 +1,12 @@
+{
+    "__comment": "Model by Shado",
+    "parent": "guns/p90/scope/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,-90,0],
+            "translation": [-6,7,7.4],
+            "scale": [0.4,0.4,0.4]
+        }
+},
+    "elements": []
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "guns/glock mod/largemag/main",
+    "textures": {
+        "9": "guns/skins/red"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.95,0.1],
+            "translation": [-8.94,8.9,-6],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [7,5,0],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

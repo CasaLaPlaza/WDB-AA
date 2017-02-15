@@ -1,0 +1,16 @@
+{
+    "parent": "guns/walther p38/all/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,30],
+            "translation": [-5,7.5,4],
+            "scale": [0.6,0.6,0.6]
+        },
+        "fixed": {
+		"rotation": [90,0,0],
+           "translation": [1,-15,-6],
+           "scale": [1.5,1.5,1.5]
+    }
+},
+    "elements": []
+}

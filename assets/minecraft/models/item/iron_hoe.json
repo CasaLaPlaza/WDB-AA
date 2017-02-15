@@ -1,48 +1,1488 @@
 {
     "__comment": "0.00398406374502",
-    "parent": "decor/assaultholder",
+    "parent": "guns/icons/hidden",
     "overrides": [
         {
             "predicate": {
                 "damage": 0.00398406374502
             },
-            "model": "decor/96aagun"
+            "model": "guns/walther p38/main"
         },
         {
             "predicate": {
                 "damage": 0.00796812749004
             },
-            "model": "decor/assaultholder"
+            "model": "guns/walther p38/run"
         },
         {
             "predicate": {
                 "damage": 0.01195219123506
             },
-            "model": "decor/assaultwallholder"
+            "model": "guns/walther p38/aim"
         },
         {
             "predicate": {
                 "damage": 0.01593625498008
             },
-            "model": "decor/sniperholder"
+            "model": "guns/walther p38/smallmag/main"
         },
         {
             "predicate": {
                 "damage": 0.0199203187251
             },
-            "model": "decor/smgholder"
+            "model": "guns/walther p38/smallmag/run"
         },
         {
             "predicate": {
                 "damage": 0.02390438247012
             },
-            "model": "decor/93x2aagun"
+            "model": "guns/walther p38/smallmag/aim"
         },
         {
             "predicate": {
-                "damage": 0.02390438247012
+                "damage": 0.02788844621514
             },
-            "model": "decor/glassholder"
+            "model": "guns/walther p38/suppressed/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.03187250996016
+            },
+            "model": "guns/walther p38/suppressed/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.03585657370518
+            },
+            "model": "guns/walther p38/suppressed/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.0398406374502
+            },
+            "model": "guns/walther p38/all/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.04382470119522
+            },
+            "model": "guns/walther p38/all/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.04780876494024
+            },
+            "model": "guns/walther p38/all/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.05577689243028
+            },
+            "model": "guns/glock 17/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.0597609561753
+            },
+            "model": "guns/glock 17/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.06374501992032
+            },
+            "model": "guns/glock 17/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.06772908366534
+            },
+            "model": "guns/glock 17/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.07171314741036
+            },
+            "model": "guns/glock 17/smallmag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.07569721115538
+            },
+            "model": "guns/glock 17/smallmag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.0796812749004
+            },
+            "model": "guns/glock 17/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.08366533864542
+            },
+            "model": "guns/glock 17/mediummag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.08764940239044
+            },
+            "model": "guns/glock 17/mediummag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.09163346613546
+            },
+            "model": "guns/glock 17/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.09561752988048
+            },
+            "model": "guns/glock 17/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.0996015936255
+            },
+            "model": "guns/glock 17/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.10358565737052
+            },
+            "model": "guns/glock 17/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.10756972111554
+            },
+            "model": "guns/glock 17/smallsilenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.11155378486056
+            },
+            "model": "guns/glock 17/smallsilenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.11553784860558
+            },
+            "model": "guns/glock 17/mediumsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.1195219123506
+            },
+            "model": "guns/glock 17/mediumsilenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.12350597609562
+            },
+            "model": "guns/glock 17/mediumsilenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.12749003984064
+            },
+            "model": "guns/p229/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.13147410358566
+            },
+            "model": "guns/p229/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.13545816733068
+            },
+            "model": "guns/p229/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.1394422310757
+            },
+            "model": "guns/p229/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.14342629482072
+            },
+            "model": "guns/p229/smallmag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.14741035856574
+            },
+            "model": "guns/p229/smallmag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.15139442231076
+            },
+            "model": "guns/p229/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.15537848605578
+            },
+            "model": "guns/p229/mediummag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.1593625498008
+            },
+            "model": "guns/p229/mediummag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.16334661354582
+            },
+            "model": "guns/p229/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.16733067729084
+            },
+            "model": "guns/p229/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.17131474103586
+            },
+            "model": "guns/p229/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.17529880478088
+            },
+            "model": "guns/p229/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.1792828685259
+            },
+            "model": "guns/p229/smallsilenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.18326693227092
+            },
+            "model": "guns/p229/smallsilenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.18725099601594
+            },
+            "model": "guns/p229/mediumsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.19123505976096
+            },
+            "model": "guns/p229/mediumsilenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.19521912350598
+            },
+            "model": "guns/p229/mediumsilenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.2
+            },
+            "model": "guns/m1911/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.204
+            },
+            "model": "guns/m1911/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.208
+            },
+            "model": "guns/m1911/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.212
+            },
+            "model": "guns/m1911/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.216
+            },
+            "model": "guns/m1911/smallmag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.220
+            },
+            "model": "guns/m1911/smallmag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.224
+            },
+            "model": "guns/m1911/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.228
+            },
+            "model": "guns/m1911/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.232
+            },
+            "model": "guns/m1911/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.236
+            },
+            "model": "guns/m1911/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.240
+            },
+            "model": "guns/m1911/smallsilenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.244
+            },
+            "model": "guns/m1911/smallsilenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.248
+            },
+            "model": "guns/glock mod/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.252
+            },
+            "model": "guns/glock mod/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.256
+            },
+            "model": "guns/glock mod/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.260
+            },
+            "model": "guns/glock mod/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.264
+            },
+            "model": "guns/glock mod/smallmag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.268
+            },
+            "model": "guns/glock mod/smallmag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.272
+            },
+            "model": "guns/glock mod/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.276
+            },
+            "model": "guns/glock mod/mediummag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.280
+            },
+            "model": "guns/glock mod/mediummag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.284
+            },
+            "model": "guns/glock mod/largemag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.288
+            },
+            "model": "guns/glock mod/largemag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.292
+            },
+            "model": "guns/glock mod/largemag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.296
+            },
+            "model": "guns/five seven/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.3
+            },
+            "model": "guns/five seven/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.304
+            },
+            "model": "guns/five seven/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.308
+            },
+            "model": "guns/five seven/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.312
+            },
+            "model": "guns/five seven/smallmag/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.316
+            },
+            "model": "guns/five seven/smallmag/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.320
+            },
+            "model": "guns/five seven/extended/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.324
+            },
+            "model": "guns/five seven/extended/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.328
+            },
+            "model": "guns/five seven/extended/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.332
+            },
+            "model": "guns/five seven/smallextended/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.336
+            },
+            "model": "guns/five seven/smallextended/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.340
+            },
+            "model": "guns/five seven/smallextended/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.344
+            },
+            "model": "guns/colt python/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.348
+            },
+            "model": "guns/colt python/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.352
+            },
+            "model": "guns/colt python/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.356
+            },
+            "model": "guns/colt detective/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.360
+            },
+            "model": "guns/colt detective/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.364
+            },
+            "model": "guns/colt detective/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.368
+            },
+            "model": "guns/imi uzi/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.372
+            },
+            "model": "guns/imi uzi/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.376
+            },
+            "model": "guns/imi uzi/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.380
+            },
+            "model": "guns/imi uzi/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.384
+            },
+            "model": "guns/imi uzi/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.388
+            },
+            "model": "guns/imi uzi/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.392
+            },
+            "model": "guns/imi uzi/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.396
+            },
+            "model": "guns/imi uzi/loaded/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.400
+            },
+            "model": "guns/imi uzi/loaded/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.404
+            },
+            "model": "guns/imi uzi/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.408
+            },
+            "model": "guns/imi uzi/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.412
+            },
+            "model": "guns/imi uzi/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.416
+            },
+            "model": "guns/imi uzi/silenced/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.420
+            },
+            "model": "guns/imi uzi/silenced/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.424
+            },
+            "model": "guns/imi uzi/silenced/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.428
+            },
+            "model": "guns/imi uzi/silenced/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.432
+            },
+            "model": "guns/imi uzi/silenced/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.436
+            },
+            "model": "guns/imi uzi/silenced/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.440
+            },
+            "model": "guns/imi uzi/handgrip/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.444
+            },
+            "model": "guns/imi uzi/handgrip/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.448
+            },
+            "model": "guns/imi uzi/handgrip/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.452
+            },
+            "model": "guns/imi uzi/handgrip/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.456
+            },
+            "model": "guns/imi uzi/handgrip/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.457
+            },
+            "model": "guns/imi uzi/handgrip/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.464
+            },
+            "model": "guns/imi uzi/handgrip/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.468
+            },
+            "model": "guns/imi uzi/handgrip/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.471
+            },
+            "model": "guns/imi uzi/handgrip/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.476
+            },
+            "model": "guns/imi uzi/silenced handgrip/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.480
+            },
+            "model": "guns/imi uzi/silenced handgrip/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.484
+            },
+            "model": "guns/imi uzi/silenced handgrip/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.488
+            },
+            "model": "guns/imi uzi/silenced handgrip/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.492
+            },
+            "model": "guns/imi uzi/silenced handgrip/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.496
+            },
+            "model": "guns/imi uzi/silenced handgrip/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.500
+            },
+            "model": "guns/imi uzi/silenced handgrip/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.504
+            },
+            "model": "guns/imi uzi/silenced handgrip/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.508
+            },
+            "model": "guns/imi uzi/silenced handgrip/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.512
+            },
+            "model": "guns/mp5k/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.516
+            },
+            "model": "guns/mp5k/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.520
+            },
+            "model": "guns/mp5k/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.524
+            },
+            "model": "guns/mp5k/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.528
+            },
+            "model": "guns/mp5k/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.532
+            },
+            "model": "guns/mp5k/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.536
+            },
+            "model": "guns/mp5k/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.540
+            },
+            "model": "guns/mp5k/loaded/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.544
+            },
+            "model": "guns/mp5k/loaded/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.548
+            },
+            "model": "guns/mp5k/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.552
+            },
+            "model": "guns/mp5k/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.556
+            },
+            "model": "guns/mp5k/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.560
+            },
+            "model": "guns/mp5k/silenced/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.564
+            },
+            "model": "guns/mp5k/silenced/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.568
+            },
+            "model": "guns/mp5k/silenced/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.572
+            },
+            "model": "guns/mp5k/silenced/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.576
+            },
+            "model": "guns/mp5k/silenced/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.580
+            },
+            "model": "guns/mp5k/silenced/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.584
+            },
+            "model": "guns/mp5k/buttstock/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.588
+            },
+            "model": "guns/mp5k/buttstock/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.592
+            },
+            "model": "guns/mp5k/buttstock/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.596
+            },
+            "model": "guns/mp5k/buttstock/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.600
+            },
+            "model": "guns/mp5k/buttstock/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.604
+            },
+            "model": "guns/mp5k/buttstock/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.608
+            },
+            "model": "guns/mp5k/buttstock/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.612
+            },
+            "model": "guns/mp5k/buttstock/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.616
+            },
+            "model": "guns/mp5k/buttstock/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.620
+            },
+            "model": "guns/mp5k/silenced buttstock/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.624
+            },
+            "model": "guns/mp5k/silenced buttstock/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.628
+            },
+            "model": "guns/mp5k/silenced buttstock/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.632
+            },
+            "model": "guns/mp5k/silenced buttstock/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.636
+            },
+            "model": "guns/mp5k/silenced buttstock/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.640
+            },
+            "model": "guns/mp5k/silenced buttstock/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.644
+            },
+            "model": "guns/mp5k/silenced buttstock/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.648
+            },
+            "model": "guns/mp5k/silenced buttstock/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.652
+            },
+            "model": "guns/mp5k/silenced buttstock/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.656
+            },
+            "model": "guns/ump45/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.660
+            },
+            "model": "guns/ump45/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.664
+            },
+            "model": "guns/ump45/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.668
+            },
+            "model": "guns/ump45/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.672
+            },
+            "model": "guns/ump45/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.676
+            },
+            "model": "guns/ump45/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.680
+            },
+            "model": "guns/ump45/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.684
+            },
+            "model": "guns/ump45/loaded/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.688
+            },
+            "model": "guns/ump45/loaded/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.692
+            },
+            "model": "guns/ump45/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.696
+            },
+            "model": "guns/ump45/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.700
+            },
+            "model": "guns/ump45/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.704
+            },
+            "model": "guns/ump45/silenced/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.708
+            },
+            "model": "guns/ump45/silenced/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.712
+            },
+            "model": "guns/ump45/silenced/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.716
+            },
+            "model": "guns/ump45/silenced/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.720
+            },
+            "model": "guns/ump45/silenced/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.724
+            },
+            "model": "guns/ump45/silenced/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.728
+            },
+            "model": "guns/aks 74u/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.732
+            },
+            "model": "guns/aks 74u/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.736
+            },
+            "model": "guns/aks 74u/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.740
+            },
+            "model": "guns/aks 74u/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.744
+            },
+            "model": "guns/aks 74u/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.748
+            },
+            "model": "guns/aks 74u/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.752
+            },
+            "model": "guns/aks 74u/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.756
+            },
+            "model": "guns/aks 74u/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.760
+            },
+            "model": "guns/aks 74u/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.764
+            },
+            "model": "guns/aks 74u/silenced/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.768
+            },
+            "model": "guns/aks 74u/silenced/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.772
+            },
+            "model": "guns/aks 74u/silenced/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.776
+            },
+            "model": "guns/aks 74u/scope/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.780
+            },
+            "model": "guns/aks 74u/scope/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.784
+            },
+            "model": "guns/aks 74u/scope/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.788
+            },
+            "model": "guns/aks 74u/scope/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.792
+            },
+            "model": "guns/aks 74u/scope/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.796
+            },
+            "model": "guns/aks 74u/scope/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.8
+            },
+            "model": "guns/aks 74u/silenced scope/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.804
+            },
+            "model": "guns/aks 74u/silenced scope/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.808
+            },
+            "model": "guns/aks 74u/silenced scope/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.812
+            },
+            "model": "guns/aks 74u/silenced scope/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.816
+            },
+            "model": "guns/aks 74u/silenced scope/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.820
+            },
+            "model": "guns/aks 74u/silenced scope/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.824
+            },
+            "model": "guns/kriss v/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.828
+            },
+            "model": "guns/kriss v/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.832
+            },
+            "model": "guns/kriss v/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.836
+            },
+            "model": "guns/kriss v/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.840
+            },
+            "model": "guns/kriss v/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.844
+            },
+            "model": "guns/kriss v/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.848
+            },
+            "model": "guns/kriss v/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.852
+            },
+            "model": "guns/kriss v/loaded/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.856
+            },
+            "model": "guns/kriss v/loaded/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.860
+            },
+            "model": "guns/kriss v/skinned/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.864
+            },
+            "model": "guns/kriss v/skinned/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.868
+            },
+            "model": "guns/kriss v/skinned/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.872
+            },
+            "model": "guns/kriss v/skinned/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.876
+            },
+            "model": "guns/kriss v/skinned/loaded/medium/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.88
+            },
+            "model": "guns/kriss v/skinned/loaded/medium/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.884
+            },
+            "model": "guns/kriss v/skinned/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.888
+            },
+            "model": "guns/kriss v/skinned/loaded/big/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.892
+            },
+            "model": "guns/kriss v/skinned/loaded/big/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.896
+            },
+            "model": "guns/p90/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.9
+            },
+            "model": "guns/p90/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.904
+            },
+            "model": "guns/p90/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.908
+            },
+            "model": "guns/p90/loaded/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.912
+            },
+            "model": "guns/p90/loaded/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.916
+            },
+            "model": "guns/p90/loaded/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.920
+            },
+            "model": "guns/p90/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.924
+            },
+            "model": "guns/p90/silenced/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.928
+            },
+            "model": "guns/p90/silenced/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.932
+            },
+            "model": "guns/p90/silenced/loaded/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.936
+            },
+            "model": "guns/p90/silenced/loaded/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.940
+            },
+            "model": "guns/p90/silenced/loaded/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.944
+            },
+            "model": "guns/p90/scope/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.948
+            },
+            "model": "guns/p90/scope/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.952
+            },
+            "model": "guns/p90/scope/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.956
+            },
+            "model": "guns/p90/scope/loaded/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.960
+            },
+            "model": "guns/p90/scope/loaded/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.964
+            },
+            "model": "guns/p90/scope/loaded/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.968
+            },
+            "model": "guns/p90/scope/loaded/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.972
+            },
+            "model": "guns/p90/silenced scope/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.976
+            },
+            "model": "guns/p90/silenced scope/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.980
+            },
+            "model": "guns/p90/silenced scope/aim"
+        },
+        {
+            "predicate": {
+                "damage": 0.984
+            },
+            "model": "guns/p90/silenced scope/loaded/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.988
+            },
+            "model": "guns/p90/silenced scope/loaded/run"
+        },
+        {
+            "predicate": {
+                "damage": 0.992
+            },
+            "model": "guns/p90/silenced scope/loaded/aim"
         }
     ]
 }

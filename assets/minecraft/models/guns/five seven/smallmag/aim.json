@@ -1,0 +1,16 @@
+{
+    "parent": "guns/five seven/smallmag/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [-8.97,9.4,2.6],
+            "scale": [0.6,0.6,0.6]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [7,5,0],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

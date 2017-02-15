@@ -1,6 +1,5 @@
 {
-    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
-    "parent": "guns/p229/p229",
+    "parent": "guns/p229/main",
     "display": {
         "firstperson_righthand": {
             "rotation": [0,90,30],

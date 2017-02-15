@@ -1,0 +1,6 @@
+{
+    "parent": "guns/mp5k/silenced buttstock/main",
+    "textures": {
+        "8": "guns/metal/eight"
+    }
+}

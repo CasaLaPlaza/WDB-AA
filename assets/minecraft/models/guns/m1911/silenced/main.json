@@ -1,0 +1,7 @@
+{
+    "parent": "guns/m1911/main",
+    "textures": {
+        "8": "guns/metal/five",
+        "9": "guns/metal/eight"
+    }
+}

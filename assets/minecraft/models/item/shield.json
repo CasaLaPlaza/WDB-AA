@@ -1,0 +1,222 @@
+{
+    "__comment": "0.00296735905044510385756676557864",
+    "parent": "guns/icons/hidden",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.00296735905044510385756676557864
+            },
+            "model": "guns/walther p38/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.00593471810089020771513353115728
+            },
+            "model": "guns/walther p38/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.00890207715133531157270029673592
+            },
+            "model": "guns/walther p38/suppressed/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.01186943620178041543026706231456
+            },
+            "model": "guns/walther p38/all/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.0148367952522255192878338278932
+            },
+            "model": "guns/glock 17/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.01780415430267062314540059347184
+            },
+            "model": "guns/glock 17/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.02077151335311572700296735905048
+            },
+            "model": "guns/glock 17/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.02373887240356083086053412462912
+            },
+            "model": "guns/glock 17/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.02670623145400593471810089020776
+            },
+            "model": "guns/glock 17/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.0296735905044510385756676557864
+            },
+            "model": "guns/glock 17/mediumsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.03264094955489614243323442136504
+            },
+            "model": "guns/p229/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.03560830860534124629080118694368
+            },
+            "model": "guns/p229/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.03857566765578635014836795252232
+            },
+            "model": "guns/p229/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.04154302670623145400593471810096
+            },
+            "model": "guns/p229/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.0445103857566765578635014836796
+            },
+            "model": "guns/p229/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.04747774480712166172106824925824
+            },
+            "model": "guns/p229/mediumsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.050
+            },
+            "model": "guns/m1911/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.053
+            },
+            "model": "guns/m1911/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.056
+            },
+            "model": "guns/m1911/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.059
+            },
+            "model": "guns/m1911/smallsilenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.062
+            },
+            "model": "guns/glock mod/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.065
+            },
+            "model": "guns/glock mod/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.068
+            },
+            "model": "guns/glock mod/mediummag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.071
+            },
+            "model": "guns/glock mod/largemag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.074
+            },
+            "model": "guns/five seven/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.077
+            },
+            "model": "guns/five seven/smallmag/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.080
+            },
+            "model": "guns/five seven/extended/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.083
+            },
+            "model": "guns/five seven/smallextended/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.086
+            },
+            "model": "guns/colt detective/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.089
+            },
+            "model": "guns/colt python/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.092
+            },
+            "model": "guns/imi uzi/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.095
+            },
+            "model": "guns/imi uzi/loaded/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.098
+            },
+            "model": "guns/imi uzi/loaded/big/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.101
+            },
+            "model": "guns/imi uzi/silenced/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.104
+            },
+            "model": "guns/imi uzi/silenced/medium/main"
+        },
+        {
+            "predicate": {
+                "damage": 0.407
+            },
+            "model": "guns/imi uzi/silenced/big/main"
+        }
+     ]
+}

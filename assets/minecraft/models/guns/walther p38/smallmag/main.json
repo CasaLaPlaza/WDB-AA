@@ -1,0 +1,6 @@
+{
+    "parent": "guns/walther p38/main",
+    "textures": {
+        "4": "guns/metal/eight"
+    }
+}

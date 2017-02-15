@@ -1,0 +1,7 @@
+{
+    "parent": "guns/imi uzi/main",
+    "textures": {
+        "7": "guns/metal/five",
+        "8": "guns/metal/eight"
+    }
+}

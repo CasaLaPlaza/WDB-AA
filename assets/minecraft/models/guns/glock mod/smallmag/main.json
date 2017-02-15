@@ -1,0 +1,6 @@
+{
+     "parent": "guns/glock mod/main",
+     "textures": {
+         "6": "guns/metal/eight"
+     }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "guns/glock 17/main",
+    "textures": {
+        "6": "guns/metal/eight",
+        "8": "guns/metal/five",
+        "9": "guns/metal/zero",
+        "10": "guns/metal/eight"
+    }
+}

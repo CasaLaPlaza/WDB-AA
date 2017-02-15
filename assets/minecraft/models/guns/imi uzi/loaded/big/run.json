@@ -1,0 +1,16 @@
+{
+    "parent": "guns/imi uzi/loaded/big/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,30],
+            "translation": [-2,13,-4],
+            "scale": [0.8,0.8,0.8]
+        },
+        "fixed": {
+		"rotation": [90,0,45],
+           "translation": [7,-14,3],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

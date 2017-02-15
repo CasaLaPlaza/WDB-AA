@@ -1,0 +1,9 @@
+{
+    "parent": "guns/aks 74u/main",
+    "textures": {
+        "8": "guns/plaincolors",
+        "9": "guns/metal/five",
+        "10": "guns/metal/zero",
+        "1": "guns/optics/holo"
+    }
+}

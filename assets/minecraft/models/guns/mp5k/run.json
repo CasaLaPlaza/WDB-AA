@@ -1,5 +1,5 @@
 {
-    "parent": "guns/mp5k/mp5k",
+    "parent": "guns/mp5k/main",
     "display": {
         "firstperson_righthand": {
             "rotation": [0,180,-5],

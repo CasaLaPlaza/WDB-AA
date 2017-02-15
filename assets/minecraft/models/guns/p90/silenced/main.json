@@ -1,0 +1,10 @@
+{
+    "__comment": "Model by Shado",
+    "parent": "guns/p90/main",
+    "textures": {
+        "11": "guns/metal/five",
+        "12": "guns/metal/six"
+    }
+},
+    "elements": []
+}
