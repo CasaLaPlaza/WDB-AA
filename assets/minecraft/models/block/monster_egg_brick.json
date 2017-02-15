@@ -2,8 +2,8 @@
     "parent": "block/cube",
     "textures": {
         "particle": "blocks/monster_egg_brick",
-        "down": "blocks/monster_egg_brick",
-        "up": "blocks/monster_egg_brick",
+        "down": "blocks/stone_granite_bottom",
+        "up": "blocks/stone_granite_top",
         "north": "blocks/monster_egg_brick",
         "east": "blocks/monster_egg_brick",
         "south": "blocks/monster_egg_brick",

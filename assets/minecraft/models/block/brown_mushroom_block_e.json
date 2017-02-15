@@ -1,12 +1,6 @@
 {
-    "parent": "block/cube",
+    "parent": "block/cube_all",
     "textures": {
-        "particle": "blocks/stone_diorite_side",
-        "down": "blocks/stone_diorite_top",
-        "up": "blocks/stone_diorite_top",
-        "north": "blocks/stone_diorite_front",
-        "east": "blocks/stone_diorite_side",
-        "south": "blocks/stone_diorite_front",
-        "west": "blocks/stone_diorite_side"
+        "all": "blocks/brown_mushroom_6"
     }
 }
