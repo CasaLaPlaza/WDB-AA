@@ -1,0 +1,9 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/mosin nagant/main",
+    "textures": {
+        "8": "guns/metal/two"
+    }
+},
+    "elements": []
+}

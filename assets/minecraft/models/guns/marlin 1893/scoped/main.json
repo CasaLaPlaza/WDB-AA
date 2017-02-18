@@ -1,0 +1,11 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/marlin 1893/main",
+    "textures": {
+        "2": "guns/metal/three",
+        "3": "guns/metal/five",
+        "4": "guns/optics/holo"
+    }
+},
+    "elements": []
+}

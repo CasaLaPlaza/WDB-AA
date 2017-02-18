@@ -1,9 +1,9 @@
 {
     "__comment": "Made by Shado47, Great work, Shado!",
     "textures": {
-        "0": "guns/metal/eight",
-        "1": "guns/metal/nine",
-        "2": "guns/metal/five",
+        "0": "guns/metal/five",
+        "1": "guns/metal/six",
+        "2": "guns/metal/four",
         "3": "guns/metal/blue",
         "4": "guns/metal/zero",
         "5": "guns/hidden",

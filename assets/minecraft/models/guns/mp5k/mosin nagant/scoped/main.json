@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/mosin nagant/main",
+    "textures": {
+        "1": "guns/hidden",
+        "2": "guns/optics/holo",
+        "5": "guns/metal/four",
+        "6": "guns/metal/two"
+    }
+},
+    "elements": []
+}

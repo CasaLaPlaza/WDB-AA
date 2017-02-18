@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/mosin mod/main",
+    "textures": {
+        "0": "guns/hidden",
+        "1": "guns/optics/holo",
+        "4": "guns/metal/four",
+        "5": "guns/metal/two"
+    }
+},
+    "elements": []
+}
