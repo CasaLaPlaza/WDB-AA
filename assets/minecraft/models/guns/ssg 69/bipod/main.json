@@ -1,0 +1,10 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/ssg 69/main",
+    "textures": {
+        "6": "guns/metal/five",
+        "7": "guns/metal/two"
+    }
+},
+    "elements": []
+}

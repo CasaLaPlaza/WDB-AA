@@ -1,11 +1,17 @@
 {
     "parent": "guns/glock mod/mediummag/main",
     "textures": {
+        "8": "guns/hidden",
         "9": "guns/skins/red"
     },
     "display": {
         "firstperson_righthand": {
             "rotation": [0,89.95,0.1],
+            "translation": [-8.94,8.9,-6],
+            "scale": [0.7,0.7,0.7]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.95,0.1],
             "translation": [-8.94,8.9,-6],
             "scale": [0.7,0.7,0.7]
         },

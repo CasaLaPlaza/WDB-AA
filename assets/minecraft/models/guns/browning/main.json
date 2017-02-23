@@ -1,4 +1,12 @@
 {
+    "textures": {
+        "particle": "guns/metal/five",
+        "0": "guns/metal/two",
+        "1": "guns/metal/five",
+        "2": "guns/metal/eight",
+        "3": "guns/metal/six",
+        "4": "guns/skins/gold"
+    },
     "display": {
         "thirdperson_righthand": {
             "rotation": [0,90,0],
@@ -36,14 +44,6 @@
            "scale": [1.1,1.1,1.1]
     }
 },
-    "textures": {
-        "particle": "guns/metal/five",
-        "0": "guns/metal/two",
-        "1": "guns/metal/five",
-        "2": "guns/metal/eight",
-        "3": "guns/metal/six",
-        "4": "guns/skins/gold"
-    },
     "elements": [
         {
             "name": "handleL1",

@@ -1,0 +1,7 @@
+{
+    "__comment": "Made by Shado47 and Tomshalev01",
+    "parent": "guns/barrett mrad/scoped/main",
+    "textures": {
+        "7": "guns/mags"
+    }
+}

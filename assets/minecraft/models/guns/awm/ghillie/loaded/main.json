@@ -1,0 +1,7 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/awm/ghillie/main",
+    "textures": {
+        "5": "guns/mags"
+    }
+}

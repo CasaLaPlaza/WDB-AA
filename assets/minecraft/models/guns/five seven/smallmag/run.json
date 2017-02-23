@@ -6,6 +6,11 @@
             "translation": [-5,7.5,4],
             "scale": [0.6,0.6,0.6]
         },
+        "firstperson_lefthand": {
+            "rotation": [0,-90,-30],
+            "translation": [-5,7.5,4],
+            "scale": [0.6,0.6,0.6]
+        },
         "fixed": {
 		"rotation": [90,0,0],
            "translation": [1,-15,-6],

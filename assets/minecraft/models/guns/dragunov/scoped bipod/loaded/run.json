@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/dragunov/scoped bipod/loaded/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-15,7,4.5],
+            "scale": [0.7,0.7,0.7]
+        }
+},
+    "elements": []
+}

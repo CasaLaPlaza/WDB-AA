@@ -1,0 +1,8 @@
+{
+    "parent": "guns/awm/main",
+    "textures": {
+        "5": "guns/mags"
+    }
+},
+    "elements": []
+}

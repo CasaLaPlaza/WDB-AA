@@ -1,0 +1,13 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/dragunov/bipod/main",
+    "textures": {
+        "1": "guns/optics/holo",
+        "6": "guns/metal/five",
+        "7": "guns/metal/four",
+        "10": "guns/metal/two",
+        "11": "guns/optics/holo"
+    }
+},
+    "elements": []
+}

@@ -5,7 +5,7 @@
     "textures": {
         "particle": "models/trashcan2",
         "0": "models/trashcan2",
-        "1": "guns/allcolors",
+        "1": "guns/plaincolors",
         "2": "models/trash"
     },
     "elements": [

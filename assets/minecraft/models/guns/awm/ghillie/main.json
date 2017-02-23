@@ -1,0 +1,11 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/awm/main",
+    "textures": {
+        "6": "guns/skins/ghillie1",
+        "7": "guns/skins/ghillie1",
+        "8": "guns/skins/ghillie1"
+    }
+},
+    "elements": []
+}

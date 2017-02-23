@@ -7,7 +7,7 @@
     },
     "display": {
         "fixed": {
-		"rotation": [0,-90,0],
+		"rotation": [0,180,0],
            "translation": [0,32,18],
            "scale": [2,2,2]
     }

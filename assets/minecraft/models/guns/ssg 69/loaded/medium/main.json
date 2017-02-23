@@ -1,0 +1,6 @@
+{
+    "parent": "guns/ssg 69/main",
+    "textures": {
+        "10": "guns/metal/four"
+    }
+}

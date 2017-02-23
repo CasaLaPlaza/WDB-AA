@@ -1,0 +1,16 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/ssg 69/main",
+    "textures": {
+        "0": "guns/optics/scope2",
+        "1": "guns/optics/scope2"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.94,0],
+            "translation": [-8.95,9.44,-1.0],
+            "scale": [0.7,0.7,0.7]
+        }
+},
+    "elements": []
+}

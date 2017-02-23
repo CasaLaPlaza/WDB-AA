@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Shado47 & Tomshalev01, Do not steal this.",
+    "parent": "guns/barrett mrad/scoped/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [15,-86,17],
+            "translation": [-10.4,-4.95,-9.72],
+            "scale": [2,2,2]
+        }
+},
+    "elements": []
+}

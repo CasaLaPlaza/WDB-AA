@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/dragunov/bipod/main",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,1.0],
+            "translation": [-8.96,10.1,-2],
+            "scale": [0.7,0.7,0.7]
+    }
+},
+    "elements": []
+}

@@ -1,0 +1,9 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/dragunov/scoped bipod/main",
+    "textures": {
+        "5": "guns/mags"
+    }
+},
+    "elements": []
+}
