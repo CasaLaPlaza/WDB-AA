@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "brick" },
+            { "model": "brick_1" },
+            { "model": "brick_2" },
+            { "model": "brick_3" }
+        ]
+    }
+}

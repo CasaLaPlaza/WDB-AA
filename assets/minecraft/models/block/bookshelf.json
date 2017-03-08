@@ -1,12 +1,7 @@
 {
-    "parent": "block/cube",
+    "parent": "block/cube_column",
     "textures": {
-        "particle": "blocks/bookshelf_side",
-        "down": "blocks/bookshelf_top",
-        "up": "blocks/bookshelf_top",
-        "north": "blocks/bookshelf_side",
-        "east": "blocks/bookshelf_side",
-        "south": "blocks/bookshelf_side",
-        "west": "blocks/bookshelf_side"
+        "end": "blocks/bookshelf_top",
+        "side": "blocks/bookshelf_side"
     }
 }
