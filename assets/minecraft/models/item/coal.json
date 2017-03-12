@@ -1,7 +1,0 @@
-{
-    "parent": "food/canned_food",
-    "textures": {
-        "0": "models/food/can_shroom",
-        "particle": "models/food/can_shroom"
-    }
-}

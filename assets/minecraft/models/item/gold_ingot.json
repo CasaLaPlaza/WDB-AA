@@ -1,7 +1,0 @@
-{
-    "parent": "food/canned_food_small",
-    "textures": {
-        "0": "models/food/can_sardines",
-        "particle": "models/food/can_sardines"
-    }
-}

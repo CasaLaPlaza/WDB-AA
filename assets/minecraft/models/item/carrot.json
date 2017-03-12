@@ -1,7 +1,7 @@
 {
-    "parent": "food/canned_food_open",
+    "parent": "food/canned_food_small_open",
     "textures": {
-        "0": "models/food/can_peas",
-        "particle": "models/food/can_peas"
+        "0": "models/food/can_sardines",
+        "particle": "models/food/can_sardines"
     }
 }
