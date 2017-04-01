@@ -1,150 +1,150 @@
 {
     "__comment": "0.00064020486555697823303457106274",
-    "parent": "guns/icons/sniper",
+    "parent": "loot/bandage",
     "overrides": [
         {
             "predicate": {
                 "damage": 0.00256081946222791293213828425096
             },
-            "model": "guns/dragunov/dragunov"
+            "model": "loot/bandage"
         },
         {
             "predicate": {
                 "damage": 0.0032010243277848911651728553137
             },
-            "model": "guns/dragunov/run"
+            "model": "loot/medical_bandage"
         },
         {
             "predicate": {
                 "damage": 0.00384122919334186939820742637644
             },
-            "model": "guns/dragunov/aim"
+            "model": "loot/splint"
         },
         {
             "predicate": {
                 "damage": 0.00448143405889884763124199743918
             },
-            "model": "guns/dragunov/black"
+            "model": "loot/disinfectant_spray"
         },
         {
             "predicate": {
                 "damage": 0.00512163892445582586427656850192
             },
-            "model": "guns/dragunov/runblack"
+            "model": "loot/medical_creambox"
         },
         {
             "predicate": {
                 "damage": 0.00576184379001280409731113956466
             },
-            "model": "guns/dragunov/aimblack"
+            "model": "loot/alcohol_tincture"
         },
         {
             "predicate": {
                 "damage": 0.01024327784891165172855313700384
             },
-            "model": "guns/ssg69/ssg69"
+            "model": "loot/saline_bag"
         },
         {
             "predicate": {
                 "damage": 0.01088348271446862996158770806658
             },
-            "model": "guns/ssg69/run"
+            "model": "loot/blood_bag"
         },
         {
             "predicate": {
                 "damage": 0.01152368758002560819462227912932
             },
-            "model": "guns/ssg69/aim"
+            "model": "loot/blood_draw_kit"
         },
         {
             "predicate": {
                 "damage": 0.01216389244558258642765685019206
             },
-            "model": "guns/awm/awm"
+            "model": "loot/empty_blood_bag"
         },
         {
             "predicate": {
                 "damage": 0.0128040973111395646606914212548
             },
-            "model": "guns/awm/run"
+            "model": "loot/blood_test_kit"
         },
         {
             "predicate": {
                 "damage": 0.01344430217669654289372599231754
             },
-            "model": "guns/awm/aim"
+            "model": "loot/syringe"
         },
         {
             "predicate": {
                 "damage": 0.01408450704225352112676056338028
             },
-            "model": "guns/awm/black"
+            "model": "loot/doctors_tools"
         },
         {
             "predicate": {
                 "damage": 0.01472471190781049935979513444302
             },
-            "model": "guns/awm/runblack"
+            "model": "loot/medical_cannabis"
         },
         {
             "predicate": {
                 "damage": 0.01536491677336747759282970550576
             },
-            "model": "guns/awm/aimblack"
+            "model": "loot/rags"
         },
         {
             "predicate": {
                 "damage": 0.0160051216389244558258642765685
             },
-            "model": "guns/awm/snow"
+            "model": "loot/injection_vial"
         },
         {
             "predicate": {
                 "damage": 0.01664532650448143405889884763124
             },
-            "model": "guns/awm/runsnow"
+            "model": "loot/morphine_auto_injector"
         },
         {
             "predicate": {
                 "damage": 0.01728553137003841229193341869398
             },
-            "model": "guns/awm/aimsnow"
+            "model": "loot/epinephrine"
         },
         {
             "predicate": {
                 "damage": 0.01792573623559539052496798975672
             },
-            "model": "guns/awm/navy"
+            "model": "loot/medical_thermometer"
         },
         {
             "predicate": {
                 "damage": 0.01856594110115236875800256081946
             },
-            "model": "guns/awm/runnavy"
+            "model": "loot/heatpack"
         },
         {
             "predicate": {
                 "damage": 0.0192061459667093469910371318822
             },
-            "model": "guns/awm/aimnavy"
+            "model": "loot/awm/aimnavy"
         },
         {
             "predicate": {
                 "damage": 0.01984635083226632522407170294494
             },
-            "model": "guns/awm/premium"
+            "model": "loot/awm/premium"
         },
         {
             "predicate": {
                 "damage": 0.02048655569782330345710627400768
             },
-            "model": "guns/awm/runpremium"
+            "model": "loot/awm/runpremium"
         },
         {
             "predicate": {
                 "damage": 0.02112676056338028169014084507042
             },
-            "model": "guns/awm/aimpremium"
+            "model": "loot/awm/aimpremium"
         }
     ]
 }
