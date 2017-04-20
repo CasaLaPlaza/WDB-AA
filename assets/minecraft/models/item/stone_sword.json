@@ -1,0 +1,11 @@
+{
+    "parent": "melee/crowbar",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.015
+            },
+            "model": "melee/crowbar"
+        }
+    ]
+}

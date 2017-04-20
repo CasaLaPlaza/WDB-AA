@@ -1,152 +1,77 @@
 {
-    "__comment": "0.00064020486555697823303457106274",
-    "parent": "loot/bandage",
+    "parent": "medical/bandage",
     "overrides": [
         {
             "predicate": {
-                "damage": 0.00256081946222791293213828425096
+                "damage": 0.0032
             },
-            "model": "loot/bandage"
+            "model": "medical/cream box"
         },
         {
             "predicate": {
-                "damage": 0.0032010243277848911651728553137
+                "damage": 0.01408
             },
-            "model": "loot/medical_bandage"
+            "model": "loot/kitchen silver"
         },
         {
             "predicate": {
-                "damage": 0.00384122919334186939820742637644
+                "damage": 0.01792
             },
-            "model": "loot/splint"
+            "model": "loot/cooking pot"
         },
         {
             "predicate": {
-                "damage": 0.00448143405889884763124199743918
+                "damage": 0.0224
             },
-            "model": "loot/disinfectant_spray"
+            "model": "loot/cup"
         },
         {
             "predicate": {
-                "damage": 0.00512163892445582586427656850192
+                "damage": 0.02432
             },
-            "model": "loot/medical_creambox"
+            "model": "loot/kitchen sponge"
         },
         {
             "predicate": {
-                "damage": 0.00576184379001280409731113956466
+                "damage": 0.02432
             },
-            "model": "loot/alcohol_tincture"
+            "model": "loot/kitchen sponge"
         },
         {
             "predicate": {
-                "damage": 0.01024327784891165172855313700384
+                "damage": 0.02496
             },
-            "model": "loot/saline_bag"
+            "model": "loot/stapler"
         },
         {
             "predicate": {
-                "damage": 0.01088348271446862996158770806658
+                "damage": 0.024624
             },
-            "model": "loot/blood_bag"
+            "model": "loot/perforator",
         },
         {
             "predicate": {
-                "damage": 0.01152368758002560819462227912932
+                "damage": 0.03008
             },
-            "model": "loot/blood_draw_kit"
+            "model": "loot/pen"
         },
         {
             "predicate": {
-                "damage": 0.01216389244558258642765685019206
+                "damage": 0.03072
             },
-            "model": "loot/empty_blood_bag"
+            "model": "loot/alkaline battery"
         },
         {
             "predicate": {
-                "damage": 0.0128040973111395646606914212548
+                "damage": 0.03968
             },
-            "model": "loot/blood_test_kit"
+            "model": "loot/brass key"
         },
         {
             "predicate": {
-                "damage": 0.01344430217669654289372599231754
+                "damage": 0.4032
             },
-            "model": "loot/syringe"
-        },
-        {
-            "predicate": {
-                "damage": 0.01408450704225352112676056338028
-            },
-            "model": "loot/doctors_tools"
-        },
-        {
-            "predicate": {
-                "damage": 0.01472471190781049935979513444302
-            },
-            "model": "loot/medical_cannabis"
-        },
-        {
-            "predicate": {
-                "damage": 0.01536491677336747759282970550576
-            },
-            "model": "loot/rags"
-        },
-        {
-            "predicate": {
-                "damage": 0.0160051216389244558258642765685
-            },
-            "model": "loot/injection_vial"
-        },
-        {
-            "predicate": {
-                "damage": 0.01664532650448143405889884763124
-            },
-            "model": "loot/morphine_auto_injector"
-        },
-        {
-            "predicate": {
-                "damage": 0.01728553137003841229193341869398
-            },
-            "model": "loot/epinephrine"
-        },
-        {
-            "predicate": {
-                "damage": 0.01792573623559539052496798975672
-            },
-            "model": "loot/medical_thermometer"
-        },
-        {
-            "predicate": {
-                "damage": 0.01856594110115236875800256081946
-            },
-            "model": "loot/heatpack"
-        },
-        {
-            "predicate": {
-                "damage": 0.0192061459667093469910371318822
-            },
-            "model": "loot/awm/aimnavy"
-        },
-        {
-            "predicate": {
-                "damage": 0.01984635083226632522407170294494
-            },
-            "model": "loot/awm/premium"
-        },
-        {
-            "predicate": {
-                "damage": 0.02048655569782330345710627400768
-            },
-            "model": "loot/awm/runpremium"
-        },
-        {
-            "predicate": {
-                "damage": 0.02112676056338028169014084507042
-            },
-            "model": "loot/awm/aimpremium"
+            "model": "loot/pizza box"
         }
     ]
 }
-
-

@@ -1,0 +1,78 @@
+{
+	"__comment": "Made by Tomshalev01",
+	"textures": {
+		"texture": "guns/brass/yellow",
+		"texture1": "guns/brass/orange"
+	},
+	"elements": [
+		{
+			"__comment": "Shell 0",
+			"from": [ 7, 0, 8 ],
+			"to": [ 9, 3, 10 ],
+			"faces": {
+				"down": { "uv": [ 7, 6, 9, 8 ], "texture": "#texture" },
+				"up": { "uv": [ 7, 8, 9, 10 ], "texture": "#texture" },
+				"north": { "uv": [ 7, 13, 9, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 7, 13, 9, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 8, 13, 10, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 6, 13, 8, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Top 0",
+			"from": [ 7.3, 3, 8.3 ],
+			"to": [ 8.699999, 4, 9.7 ],
+			"faces": {
+				"down": { "uv": [ 7.3, 5.6, 8.7, 7 ], "texture": "#texture1" },
+				"up": { "uv": [ 7.3, 9, 8.7, 10.4 ], "texture": "#texture1" },
+				"north": { "uv": [ 7.3, 12, 8.7, 13 ], "texture": "#texture1" },
+				"south": { "uv": [ 7.3, 12, 8.7, 13 ], "texture": "#texture1" },
+				"west": { "uv": [ 9, 12, 10.4, 13 ], "texture": "#texture1" },
+				"east": { "uv": [ 5.6, 12, 7, 13 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Top 0",
+			"from": [ 7.6, 4, 8.599999 ],
+			"to": [ 8.4, 4.25, 9.4 ],
+			"faces": {
+				"down": { "uv": [ 7.6, 6.6, 8.4, 7.400002 ], "texture": "#texture1" },
+				"up": { "uv": [ 7.6, 8.599999, 8.4, 9.4 ], "texture": "#texture1" },
+				"north": { "uv": [ 7.6, 11.75, 8.4, 12 ], "texture": "#texture1" },
+				"south": { "uv": [ 7.6, 11.75, 8.4, 12 ], "texture": "#texture1" },
+				"west": { "uv": [ 8.599999, 11.75, 9.4, 12 ], "texture": "#texture1" },
+				"east": { "uv": [ 6.6, 11.75, 7.400001, 12 ], "texture": "#texture1" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 4, -0.695 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 4, -0.695 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"translation":  [ 0, 4, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"head": {
+			"translation":  [ 0, 11, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		}
+	}
+}

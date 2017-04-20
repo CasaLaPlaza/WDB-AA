@@ -1,3 +1,11 @@
 {
-    "parent": "melee/kitchenknife"
+    "parent": "melee/kitchenknife",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.01666
+            },
+            "model": "melee/kitchenknife"
+        }
+    ]
 }

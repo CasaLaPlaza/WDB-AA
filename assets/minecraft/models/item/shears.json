@@ -1,0 +1,42 @@
+{
+    "__comment": "0.0042",
+    "parent": "guns/icons/hidden",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.0042
+            },
+            "model": "decor/stands/pistol/wall"
+        },
+        {
+            "predicate": {
+                "damage": 0.0798
+            },
+            "model": "grenades/m67"
+        },
+        {
+            "predicate": {
+                "damage": 0.0924
+            },
+            "model": "grenades/flashbang"
+        },
+        {
+            "predicate": {
+                "damage": 0.0966
+            },
+            "model": "grenades/smoke"
+        },
+        {
+            "predicate": {
+                "damage": 0.105
+            },
+            "model": "grenades/semtex"
+        },
+        {
+            "predicate": {
+                "damage": 0.189
+            },
+            "model": "grenades/molotov"
+        }
+    ]
+}

@@ -1,240 +1,95 @@
 {
-    "__comment": "0.00398406374502",
-    "parent": "guns/icons/hidden",
+    "parent": "guns/mosin nagant/main",
     "overrides": [
         {
             "predicate": {
-                "damage": 0.00398406374502
-            },
-            "model": "guns/marlin 1893/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.00796812749004
-            },
-            "model": "guns/marlin 1893/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.01195219123506
-            },
-            "model": "guns/marlin 1893/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.01593625498008
-            },
-            "model": "guns/marlin 1893/scoped/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.0199203187251
-            },
-            "model": "guns/marlin 1893/scoped/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.02390438247012
-            },
-            "model": "guns/marlin 1893/scoped/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.02788844621514
-            },
-            "model": "guns/marlin sawedoff/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.03187250996016
-            },
-            "model": "guns/marlin sawedoff/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.03585657370518
-            },
-            "model": "guns/marlin sawedoff/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.0398406374502
+                "damage": 0.0398406374501992
             },
             "model": "guns/mosin nagant/main"
         },
         {
             "predicate": {
-                "damage": 0.04382470119522
+                "damage": 0.043824701195219126
             },
             "model": "guns/mosin nagant/run"
         },
         {
             "predicate": {
-                "damage": 0.04780876494024
+                "damage": 0.04780876494023904
             },
             "model": "guns/mosin nagant/aim"
         },
         {
             "predicate": {
-                "damage": 0.051
+                "damage": 0.05179282868525897
             },
-            "model": "guns/mosin nagant/scoped/main"
+            "model": "guns/mosin nagant/scope/main"
         },
         {
             "predicate": {
-                "damage": 0.05577689243028
+                "damage": 0.055776892430278883
             },
-            "model": "guns/mosin nagant/scoped/run"
+            "model": "guns/mosin nagant/scope/run"
         },
         {
             "predicate": {
-                "damage": 0.0597609561753
+                "damage": 0.05976095617529881
             },
-            "model": "guns/mosin nagant/scoped/aim"
+            "model": "guns/mosin nagant/scope/aim"
         },
         {
             "predicate": {
-                "damage": 0.06374501992032
+                "damage": 0.06374501992031872
             },
             "model": "guns/mosin nagant/compensator/main"
         },
         {
             "predicate": {
-                "damage": 0.06772908366534
+                "damage": 0.06772908366533864
             },
             "model": "guns/mosin nagant/compensator/run"
         },
         {
             "predicate": {
-                "damage": 0.07171314741036
+                "damage": 0.07171314741035857
             },
             "model": "guns/mosin nagant/compensator/aim"
         },
         {
             "predicate": {
-                "damage": 0.07569721115538
+                "damage": 0.07569721115537849
             },
             "model": "guns/mosin nagant/scoped compensator/main"
         },
         {
             "predicate": {
-                "damage": 0.0796812749004
+                "damage": 0.0796812749003984
             },
             "model": "guns/mosin nagant/scoped compensator/run"
         },
         {
             "predicate": {
-                "damage": 0.08366533864542
+                "damage": 0.08366533864541832
             },
             "model": "guns/mosin nagant/scoped compensator/aim"
         },
         {
             "predicate": {
-                "damage": 0.08764940239044
+                "damage": 0.3745019920318725
             },
-            "model": "guns/mosin mod/main"
+            "model": "guns/remington 870/main"
         },
         {
             "predicate": {
-                "damage": 0.09163346613546
+                "damage": 0.3784860557768924
             },
-            "model": "guns/mosin mod/run"
+            "model": "guns/remington 870/run"
         },
         {
             "predicate": {
-                "damage": 0.09561752988048
+                "damage": 0.38247011952191234
             },
-            "model": "guns/mosin mod/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.0996015936255
-            },
-            "model": "guns/mosin mod/scoped/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.10358565737052
-            },
-            "model": "guns/mosin mod/scoped/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.10756972111554
-            },
-            "model": "guns/mosin mod/scoped/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.11155378486056
-            },
-            "model": "guns/mosin mod/bipod/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.11553784860558
-            },
-            "model": "guns/mosin mod/bipod/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.1195219123506
-            },
-            "model": "guns/mosin mod/bipod/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.12350597609562
-            },
-            "model": "guns/mosin mod/scoped bipod/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.12749003984064
-            },
-            "model": "guns/mosin mod/scoped bipod/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.13147410358566
-            },
-            "model": "guns/mosin mod/scoped bipod/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.13545816733068
-            },
-            "model": "guns/winchester/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.1394422310757
-            },
-            "model": "guns/winchester/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.14342629482072
-            },
-            "model": "guns/winchester/aim"
-        },
-        {
-            "predicate": {
-                "damage": 0.14741035856574
-            },
-            "model": "guns/winchester/scoped/main"
-        },
-        {
-            "predicate": {
-                "damage": 0.15139442231076
-            },
-            "model": "guns/winchester/scoped/run"
-        },
-        {
-            "predicate": {
-                "damage": 0.15537848605578
-            },
-            "model": "guns/winchester/scoped/aim"
+            "model": "guns/remington 870/aim"
         }
     ]
 }

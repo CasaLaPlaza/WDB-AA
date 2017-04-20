@@ -1,48 +1,17 @@
 {
-    "__comment": "0.00398406374502",
-    "parent": "decor/assaultholder",
+    "parent": "melee/machete",
     "overrides": [
         {
             "predicate": {
-                "damage": 0.00398406374502
+                "damage": 0.0039
             },
-            "model": "decor/96aagun"
+            "model": "melee/machete"
         },
         {
             "predicate": {
-                "damage": 0.00796812749004
+                "damage": 0.0078
             },
-            "model": "decor/assaultholder"
-        },
-        {
-            "predicate": {
-                "damage": 0.01195219123506
-            },
-            "model": "decor/assaultwallholder"
-        },
-        {
-            "predicate": {
-                "damage": 0.01593625498008
-            },
-            "model": "decor/sniperholder"
-        },
-        {
-            "predicate": {
-                "damage": 0.0199203187251
-            },
-            "model": "decor/smgholder"
-        },
-        {
-            "predicate": {
-                "damage": 0.02390438247012
-            },
-            "model": "decor/93x2aagun"
-        },
-        {
-            "predicate": {
-                "damage": 0.02390438247012
-            },
-            "model": "decor/glassholder"
+            "model": "melee/katana"
         }
     ]
 }
